@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KisanSmsApp</string>
+
+    <string name="firstName">Rahul</string>
+    <string name="lastName">Soni</string>
+    <string name="info">Info</string>
+</resources>
